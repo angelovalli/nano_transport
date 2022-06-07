@@ -1,7 +1,7 @@
 ## Nano Transport
 A code to evaluate linear response transport in nanostructures. 
 
-It was originally developped as a post-processing of an Lánczos exact diagonalization (ED) solver \
+It was originally developed as a post-processing suite of a Lánczos exact diagonalization solver \
 for dynamical mean-field theory (DMFT) - GitHub repo: https://github.com/aamaricci/dmft-ed
 
 The software is now an independent package. Its structure is as follows:
